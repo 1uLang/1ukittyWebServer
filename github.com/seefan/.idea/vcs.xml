@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/gopool" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gossdb" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/seefan/gopool" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/seefan/gossdb" vcs="Git" />
+  </component>
+</project>

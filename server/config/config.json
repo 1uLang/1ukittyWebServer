@@ -1,0 +1,17 @@
+{
+  "url": "",
+  "host": "127.0.0.1",
+  "httpPort": 24397,
+  "httpsPort": 0,
+  "https": false,
+  "https_cert_pem": "",
+  "https_cert_key": "",
+
+  "SSDBHost": "127.0.0.1",
+  "SSDBPort": 8889,
+  "SSDBPwd": "127.0.0.1",
+
+  "baseSSDBHost": "",
+  "baseSSDBPort": 0,
+  "baseSSDBPwd": ""
+}
